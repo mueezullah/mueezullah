@@ -22,7 +22,7 @@
 
 ###
 
-<h2 align="left">🛠️ Technologies & Tools</h2>
+<h2 align="left">Technologies & Tools</h2>
 
 ###
 
@@ -54,7 +54,7 @@
 
 ###
 
-<h2 align="left">📱 Social Media</h2>
+<h2 align="left">Social Media</h2>
 
 ###
 
@@ -68,6 +68,12 @@
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mueezullah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2&custom_title=Languages%20Used" height="150" alt="languages graph"  />
 </div>
 
 ###
