@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✅ Advanced JavaScript and React<br>✅ Recently completed Personal Portfolio (React-Based)<br>✅ My goal is to master front-end development, and transition to full-stack development<br>✅ DSA Practice & Problem Solving<br>✅ Basic Machine Learning projects</p>
+<p align="left">✅ Advanced JavaScript and React<br>✅ Recently started 36-Weeks-Coding-Preparation-Challenge<br>✅ My goal is to master front-end development, and transition to full-stack development<br>✅ DSA Practice & Problem Solving<br>✅ Basic Machine Learning projects</p>
 
 ###
 
