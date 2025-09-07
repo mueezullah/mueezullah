@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">🚀 CS'26 | React | DSA</h3>
+<h3 align="center">🚀 CS'26 | React | Java | DSA</h3>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a passionate Computer Science undergraduate with big dreams of playing big roles in the field of computer. Currently in my 5th semester of my Bachelor's program, I'm on a journey to explore the world of technology, development, and artificial intelligence. Passionate to learn new things and explore my inner potential.</p>
+<p align="left">I'm a passionate Computer Science undergraduate with big dreams of playing big roles in the field of computer. Currently in my 6th semester of my Bachelor's program, I'm on a journey to explore the world of technology, development, and artificial intelligence. Passionate to learn new things and explore my inner potential.</p>
 
 ###
 
