@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm a passionate Computer Science undergraduate with big dreams of playing big roles in the field of computer. Currently in my 6th semester of my Bachelor's program, I'm on a journey to explore the world of technology, development, and artificial intelligence. Passionate to learn new things and explore my inner potential.</p>
+<p align="left">I'm a passionate Computer Science undergraduate with big dreams of playing big roles in the field of computer. Currently in my 7th semester of my Bachelor's program, I'm on a journey to explore the world of technology, development, and artificial intelligence. Passionate to learn new things and explore my inner potential.</p>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">✅ Advanced JavaScript and React<br>✅ Recently started 36-Weeks-Coding-Preparation-Challenge (Learning Full Stack) <br>✅ My goal is to master front-end development, and transition to full-stack development<br>✅ DSA Practice & Problem Solving<br>✅ Basic Machine Learning projects<br>✅ Currently developing core computer fundamentals </p>
+<p align="left">✅ Advanced JavaScript and React<br>✅ Started to learn Java for my Backend Journey <br>✅ My goal is to master front-end development, and transition to full-stack development<br>✅ DSA Practice & Problem Solving<br>✅ Currently developing core computer fundamentals </p>
 
 ###
 
