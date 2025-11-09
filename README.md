@@ -73,7 +73,7 @@
 ###
  
 <div align="center">
-  <img src="https://your-vercel-domain.vercel.app/api/top-langs/?username=YourGitHubUsername&show_icons=true&count_private=true
+  <img src="https:/github-readme-stats-teal-six-33.vercel.app/api/top-langs/?username=mueezullah&show_icons=true&count_private=true
 " />
 </div>
 
