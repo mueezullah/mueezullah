@@ -73,8 +73,8 @@
 ###
  
 <div align="center">
-  <img src="[https://github-readme-stats-mueezullah.vercel.app/api/top-langs?](https://github-readme-stats.vercel.app/api/top-langs?username=mueezullah&count_private=true
-)username=mueezullah&count_private=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://your-vercel-domain.vercel.app/api/top-langs/?username=YourGitHubUsername&show_icons=true&count_private=true
+" />
 </div>
 
 
