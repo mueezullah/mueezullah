@@ -75,7 +75,7 @@
 ###
  
 <div align="center">
-  <img src="https://github-readme-stats-eta-lovat-32.vercel.app/api/top-langs/?username=mueezullah&layout=compact&count_private=true&private_contributions=true&lang_count=10"
+  <img alt="most used langs" src="https://github-readme-stats-eta-lovat-32.vercel.app/api/top-langs/?username=mueezullah&layout=compact&count_private=true&private_contributions=true&lang_count=10" />
 
 
   
