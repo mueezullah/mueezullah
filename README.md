@@ -74,7 +74,7 @@
  
 <div align="center">
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mueezullah&layout=compact)
-  <img src="https://github-readme-stats-mueezullah.vercel.app/api/top-langs?username=mueezullah&count_private=true&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mueezullah&layout=compact" />
 </div>
 
 
