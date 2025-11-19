@@ -73,7 +73,7 @@
 ###
  
 <div align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mueezullah&layout=compact)
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mueezullah&layout=compact" />
 </div>
 
