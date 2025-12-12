@@ -1,9 +1,5 @@
 <h1 align="center">👋 Hey! I'm Mueez Ullah</h1>
 
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mueezullah&layout=compact" />
-###
-
 <h3 align="center">🚀 CS'26 | React | Java | DSA</h3>
 
 ###
@@ -76,10 +72,6 @@
  
 <div align="center">
   <img alt="most used langs" src="https://github-readme-stats-eta-lovat-32.vercel.app/api/top-langs/?username=mueezullah&layout=compact&count_private=true&private_contributions=true&langs_count=10" />
-  <img src="https://github-readme-stats-eta-lovat-32.vercel.app/api/top-langs/?username=mueezullah&layout=compact&count_private=true&private_contributions=true&lang_count=10" />
-
-
-  
   
 </div>
 
