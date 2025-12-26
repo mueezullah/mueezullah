@@ -80,6 +80,7 @@
 
 ###
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mueezullah&layout=compact&exclude_repo=portfolio,docs" />
 
 
 
