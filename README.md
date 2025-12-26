@@ -74,9 +74,8 @@
   <img alt="most used langs" src="https://github-readme-stats-eta-lovat-32.vercel.app/api/top-langs/?username=mueezullah&layout=compact&count_private=true&private_contributions=true&langs_count=10" />
   
 </div>
-
 <div align="center">
-  <img src="https://github-username=mueezullah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mueezullah&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" height="150" />
 </div>
 
 ###
