@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey! I'm Mueez Ullah</h1>
 
-<h3 align="center">🚀 CS'26 | React | Java | DSA</h3>
+<h3 align="center">🚀 CS'26 | React | DSA</h3>
 
 ###
 
