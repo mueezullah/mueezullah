@@ -74,10 +74,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mueezullah&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" height="150" />
 </div>
 
-###
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mueezullah&layout=compact&exclude_repo=portfolio,docs" />
-
-
 
 ###
