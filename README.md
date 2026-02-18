@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hey! I'm Mueez Ullah</h1>
 
-<h3 align="center">🚀 CS'26 | React | DSA</h3>
+<h3 align="center">🚀 CS'26 | Full-Stack Developer | DSA</h3>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a passionate Computer Science undergraduate with big dreams of playing big roles in the field of computer. Currently in my 7th semester of my Bachelor's program, I'm on a journey to explore the world of technology, development, and artificial intelligence. Passionate to learn new things and explore my inner potential.</p>
+<p align="left">I'm a passionate Computer Science undergraduate with big dreams of playing big roles in the field of computer. Currently in my 7th semester of my Bachelor's program, I'm on a journey to explore the world of technology and development. Passionate to learn new things and explore my inner potential.</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">✅ Advanced JavaScript and React<br>✅ Started to learn Java for my Backend Journey <br>✅ My goal is to master front-end development, and transition to full-stack development<br>✅ DSA Practice & Problem Solving<br>✅ Currently developing core computer fundamentals </p>
+<p align="left">✅ Advanced JavaScript and React<br>✅ Learning Express for my Backend <br>✅ DSA Practice & Problem Solving<br>✅ Currently developing core computer fundamentals </p>
 
 ###
 
@@ -71,7 +71,7 @@
 ###
  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mueezullah&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" height="150" />
+  <img src="https://github/top-langs?username=mueezullah&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" height="150" />
 </div>
 
 
