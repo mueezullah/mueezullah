@@ -83,7 +83,7 @@
 <div align="center">
   <img src="https://github/top-langs?username=mueezullah&layout=compact&langs_count=5&theme=dracula&cache_seconds=1800" height="150" />
   ### Most Used Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mueezullah&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src"https://github-readme-stats.vercel.app/api/top-langs/?username=mueezullah&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
 
 
