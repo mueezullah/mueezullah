@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science undergraduate. Currently in my 7th semester of my Bachelor's program, I'm on a journey to explore the world of technology and development. Passionate to learn new things and explore my inner potential.</p>
+<p align="left">I'm a Computer Science undergraduate. Currently in my 8th semester of my Bachelor's program, I'm on a journey to explore the world of technology and development. Passionate to learn new things and explore my inner potential.</p>
 
 ###
 
