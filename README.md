@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science undergraduate. Currently in my 8th semester of my Bachelor's program, I'm on a journey to explore the world of technology and development. Passionate to learn new things and explore my inner potential.</p>
+<p align="left">I'm a Computer Science undergraduate. Currently in my 8th semester of my Bachelor's program, I'm on a journey to explore the world of technology and development. I'm Passionate to learn new things and explore my inner potential.</p>
 
 ###
 
@@ -17,6 +17,13 @@
 ###
 
 <p align="left">✅ Advanced JavaScript and React<br>✅ Learning Express for my Backend <br>✅ DSA Practice & Problem Solving<br>✅ Currently developing core computer fundamentals </p>
+
+###
+
+<h2 align = "left"> 🏆 Achievements</h2>
+- Solved 350+ DSA problems across multiple platforms and currently grinding on LeetCode to further enhance problem-solving skills.<br>
+- Secured 84.6 percentile nationwide among final-year CS graduates, certified for core technical competency by the Higher Education Commission (HEC).
+
 
 ###
 
@@ -60,11 +67,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
-###
-
-###
-
-###
 
 ###
 
