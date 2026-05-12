@@ -81,6 +81,12 @@
 </p>
 
 ###
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mueezullah&label=Profile%20Views&color=6366f1&style=flat-square&labelColor=334155" alt="mueezullah" />
+</p>
+
+###
  
 <div align="center">
 
