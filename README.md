@@ -92,7 +92,7 @@
 
 ### 📊 Most Used Languages
 
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mueezullah&layout=compact&theme=dracula" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mueezullah&layout=compact&theme=dracula&langs_count=10" height="150" />
 
 </div>
 
