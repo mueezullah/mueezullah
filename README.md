@@ -2,7 +2,11 @@
 
 <h3 align="center">🚀 CS'26 | Full-Stack Developer | DSA</h3>
 
-###
+<div align='center'>
+  
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 <h2 align="left">🔥About Me</h2>
 
