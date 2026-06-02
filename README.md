@@ -28,12 +28,92 @@
 - Solved 350+ DSA problems across multiple platforms and currently grinding on LeetCode to further enhance problem-solving skills.<br>
 - Secured 84.6 percentile nationwide among final-year CS graduates, certified for core technical competency by the Higher Education Commission (HEC).
 
+<div align='center'>
+  
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-###
+</div>
 
-<h2 align="left">Tech & Tools</h2>
+<div align="center">
 
-###
+### 『 Tech Stack 』
+  
+<table width="100%" valign="top" border="0" cellspacing="0" cellpadding="10">
+    <!-- Row 1 -->
+    <tr>
+      <!-- Quadrant 1: Languages & Tools -->
+      <td width="50%" valign="top">
+        <h3>🛠️ Languages & Tools</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" alt="Languages" />
+          <br><br>
+          <img src="https://skillicons.dev/icons?i=git,postman" alt="Tools" />
+        </a>
+      </td>
+      <!-- Quadrant 2: Frameworks & Libraries -->
+      <td width="50%" valign="top">
+        <h3>🚀 Frameworks & Libraries</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="Frameworks" />
+          <br><br>
+          <img src="https://skillicons.dev/icons?i=mongodb,postgres,tailwind" alt="Libraries and DBs" />
+        </a>
+      </td>
+    </tr>
+    <!-- Row 2 -->
+    <tr>
+      <!-- Quadrant 3: CS Core Fundamentals -->
+      <td width="50%" valign="top">
+        <h3>🧠 CS Core Fundamentals</h3>
+        <div href="https://skillicons.dev">
+          <ul style="text-align: left; display: inline-block;">
+          <li><b>Data Structures & Algorithms (DSA)</b></li>
+          <li><b>Object-Oriented Programming (OOPs)</b></li>
+          <li><b>Database Management Systems (DBMS)</b></li>
+        </ul>
+        </div>
+        <br><br>
+      </td>
+      <!-- Quadrant 4: DevOps & Cloud -->
+      <td width="50%" valign="top">
+        <h3>☁️ DevOps & Cloud</h3>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" alt="DevOps and Cloud" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+### Others
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="DevOps and Cloud" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excalidraw/excalidraw-original.svg" width="50" height="50" alt="Excalidraw" />
+
+</div>
+
+<div align='center'>
+  
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
+
+<div align="center">
+
+<br>
+
+📧 **Email:** [Connect via Email](mailto:mueezullahip8@gmail.com)
+
+💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mueezullah)
+
+<br>
+
+</div>
+
+<div align='center'>
+  
+### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
@@ -68,7 +148,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  
 </div>
 
 
@@ -93,10 +173,13 @@
 ###
  
 <div align="center">
+  
+  <h3 align="center">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28" style="vertical-align: middle; margin-right: 5px;">
+    <span style="vertical-align: middle;">Most Used Languages</span>
+  </h3>
 
-### 📊 Most Used Languages
-
-<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mueezullah&layout=compact&theme=dracula&langs_count=10&v=1" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mueezullah&layout=compact&theme=dracula&langs_count=10&v=1" height="150" />
 
 </div>
 
