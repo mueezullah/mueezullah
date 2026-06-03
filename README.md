@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey! I'm <span >Mueez</span></h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hey! I'm <span >Mueez</span></h1>
 
 <h3 align="center">🚀 CS'26 | Full-Stack Developer | DSA</h3>
 
@@ -45,18 +45,18 @@
       <td width="50%" valign="top">
         <h3>🛠️ Languages & Tools</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" alt="Languages" />
+          <img src="https://skillicons.dev/icons?i=cpp,js,ts,py" alt="Languages & Tools" />
           <br><br>
-          <img src="https://skillicons.dev/icons?i=git,postman" alt="Tools" />
+          <img src="https://skillicons.dev/icons?i=git,postman" alt="Languages & Tools" />
         </a>
       </td>
       <!-- Quadrant 2: Frameworks & Libraries -->
       <td width="50%" valign="top">
         <h3>🚀 Frameworks & Libraries</h3>
         <a href="https://skillicons.dev">
-          <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express" alt="Frameworks" />
+          <img src="https://skillicons.dev/icons?i=react,nodejs,express,postgres" alt="Frameworks & Libraries" />
           <br><br>
-          <img src="https://skillicons.dev/icons?i=mongodb,postgres,tailwind" alt="Libraries and DBs" />
+          <img src="https://skillicons.dev/icons?i=mongodb,tailwind" alt="Frameworks & Libraries" />
         </a>
       </td>
     </tr>
@@ -84,10 +84,12 @@
     </tr>
   </table>
 
-### Others
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="50" alt="figma logo"  />
-<img src="https://skillicons.dev/icons?i=github" height="50" alt="DevOps and Cloud" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excalidraw/excalidraw-original.svg" width="50" height="50" alt="Excalidraw" />
+### Extras
+<img src="https://skillicons.dev/icons?i=github" height="50" alt="github" />
+<img src="https://skillicons.dev/icons?i=html,css" height="50" />
+<img src="https://skillicons.dev/icons?i=figma&theme=light" height="50" />
+<img src="https://skillicons.dev/icons?i=vercel" height="50" />
+<img src="https://cdn.simpleicons.org/netlify/00C7B7" height="50" alt="netlify logo"  />
 
 </div>
 
@@ -98,12 +100,69 @@
 </div>
 
 <div align="center">
-
-<br>
-
-📧 **Email:** [Connect via Email](mailto:mueezullahip8@gmail.com)
-
-💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/in/mueezullah)
+  
+### 『 Connect 』
+  
+<table align="center" width="100%">
+  <thead>
+    <tr>
+      <th align="center" width="30%">Platform</th>
+      <th align="left" width="70%">Link / Handle</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- Row 1: Email -->
+    <tr>
+      <td align="center" valign="middle">
+        <div>
+          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Icon" /><br />
+          <h4>Email</h4>
+        </div>
+      </td>
+      <td align="left" valign="middle">
+        <a href="mailto:mueezullahip8@gmail.com">mueezullahip8@gmail.com</a>
+      </td>
+    </tr>
+    <!-- Row 2: LinkedIn -->
+    <tr>
+      <td align="center" valign="middle">
+        <div>
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" /><br />
+          <h4>LinkedIn</h4>
+        </div>
+      </td>
+      <td align="left" valign="middle">
+        <a href="https://www.linkedin.com/in/mueezullah">https://www.linkedin.com/in/mueezullah</a>
+      </td>
+    </tr>
+    <!-- Row 3: LeetCode -->
+    <tr>
+      <td align="center" valign="middle">
+        <div href="https://leetcode.com/u/YOUR_USERNAME">
+          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Icon" /><br />
+          <h4>LeetCode</h4>
+        </div>
+      </td>
+      <td align="left" valign="middle">
+        <a href="https://leetcode.com/u/MueezX/">https://leetcode.com/u/MueezX</a>
+      </td>
+    </tr>
+    <!-- Row 4: Discord -->
+    <tr>
+      <td align="center" valign="middle">
+        <div href="https://discord.com/users/YOUR_DISCORD_ID">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Icon" /><br />
+          <h4>Discord</h4>
+        </div>
+      </td>
+      <td align="left" valign="middle">
+        <code>your_discord_username</code>
+      </td>
+    </tr>
+    
+  </tbody>
+</table>
+</div>
 
 <br>
 
@@ -115,56 +174,7 @@
 
 </div>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  
-</div>
 
-
-###
-
-<h3 align="left">Social</h3>
-
-###
-
-<p align="left">
-<a href="https://linkedin.com/in/mueezullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mueezullah" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mueezx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mueezx" height="30" width="40" /></a>
-<a href="https://discord.gg/WixardX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="WixardX" height="30" width="40" /></a>
-</p>
-
-###
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mueezullah&label=Profile%20Views&color=6366f1&style=flat-square&labelColor=334155" alt="mueezullah" />
