@@ -69,7 +69,6 @@
           <ul style="text-align: left; display: inline-block;">
           <li><b>Data Structures & Algorithms (DSA)</b></li>
           <li><b>Object-Oriented Programming (OOPs)</b></li>
-          <li><b>Database Management Systems (DBMS)</b></li>
         </ul>
         </div>
         <br><br>
