@@ -16,18 +16,31 @@
 
 ###
 
-<h2 align="left">💡 What I’m Working On</h2>
+<h2 align="left">🚀 Currently Working On</h2>
 
 ###
 
-<p align="left">✅ Advanced JavaScript and React<br>✅ Learning Express for my Backend <br>✅ DSA Practice & Problem Solving<br>✅ Currently developing core computer fundamentals </p>
+<p align="left">
+  - 🔭 Building full-stack apps with <strong>React</strong>, <strong>Node.js</strong>, <strong>Express</strong>, <strong>PostgreSQL</strong> and more
+  <br>
+  - 📚 Solving DSA problems in <strong>C++</strong>
+  <br>
+  - ⚙️ Deploying with <strong>Docker</strong>, <strong>AWS (Serverless)</strong> and <strong>GitHub Actions</strong> CI/CD
+  <br>
+  - 🧠 Deepening core CS fundamentals (OS, DBMS, Networks) for interviews
+</p>
 
 ###
 
-<h2 align = "left"> 🏆 Achievements</h2>
-- Solved 350+ DSA problems across multiple platforms and currently grinding on LeetCode to further enhance problem-solving skills.<br>
-- Secured 84.6 percentile nationwide among final-year CS graduates, certified for core technical competency by the Higher Education Commission (HEC).
+<h2 align="left">🏆 Achievements</h2>
 
+###
+
+<p align="left">
+  - Solved 350+ DSA problems across multiple platforms, currently active on LeetCode
+  <br>
+  - Scored 84.6 percentile nationwide among final-year CS graduates (HEC-certified)
+</p>
 <div align='center'>
   
 ### ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -101,66 +114,70 @@
 <div align="center">
   
 ### 『 Connect 』
-  
-<table align="center" width="100%">
-  <thead>
-    <tr>
-      <th align="center" width="30%">Platform</th>
-      <th align="left" width="70%">Link / Handle</th>
-    </tr>
-  </thead>
-  <tbody>
-    <!-- Row 1: Email -->
-    <tr>
-      <td align="center" valign="middle">
-        <div>
-          <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Icon" /><br />
-          <h4>Email</h4>
-        </div>
+
+<div>
+  <table border="0" style="border: none;">
+    <!--Email-->
+    <tr style="border: none;">
+      <!-- Icon/Badge Column -->
+      <td align="center" valign="middle" style="border: none; padding-right: 8px;">
+        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Icon" height="24">
       </td>
-      <td align="left" valign="middle">
+      <!-- Title Column -->
+      <td align="left" valign="middle" style="border: none; padding-right: 8px;">
+        <b>Email</b>
+      </td>
+      <!-- Link Column -->
+      <td align="left" valign="middle" style="border: none;">
         <a href="mailto:mueezullahip8@gmail.com">mueezullahip8@gmail.com</a>
       </td>
     </tr>
-    <!-- Row 2: LinkedIn -->
-    <tr>
-      <td align="center" valign="middle">
-        <div>
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" /><br />
-          <h4>LinkedIn</h4>
-        </div>
+    <!--LinkedIn-->
+    <tr style="border: none;">
+      <!-- Icon/Badge Column -->
+      <td align="center" valign="middle" style="border: none; padding-right: 8px;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Icon" height="24">
       </td>
-      <td align="left" valign="middle">
-        <a href="https://www.linkedin.com/in/mueezullah">https://www.linkedin.com/in/mueezullah</a>
+      <!-- Title Column -->
+      <td align="left" valign="middle" style="border: none; padding-right: 8px;">
+        <b>LinkedIn</b>
       </td>
-    </tr>
-    <!-- Row 3: LeetCode -->
-    <tr>
-      <td align="center" valign="middle">
-        <div href="https://leetcode.com/u/YOUR_USERNAME">
-          <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Icon" /><br />
-          <h4>LeetCode</h4>
-        </div>
-      </td>
-      <td align="left" valign="middle">
-        <a href="https://leetcode.com/u/MueezX/">https://leetcode.com/u/MueezX</a>
+      <!-- Link Column -->
+      <td align="left" valign="middle" style="border: none;">
+        <a href="https://www.linkedin.com/in/mueezullah">Connect with me on LinkedIn</a>
       </td>
     </tr>
-    <!-- Row 4: Discord -->
-    <tr>
-      <td align="center" valign="middle">
-        <div href="https://discord.com/users/YOUR_DISCORD_ID">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Icon" /><br />
-          <h4>Discord</h4>
-        </div>
+    <!--LeetCode-->
+    <tr style="border: none;">
+      <!-- Icon/Badge Column -->
+      <td align="center" valign="middle" style="border: none; padding-right: 8px;">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Icon" height="24">
       </td>
-      <td align="left" valign="middle">
-        <code>your_discord_username</code>
+      <!-- Title Column -->
+      <td align="left" valign="middle" style="border: none; padding-right: 8px;">
+        <b>LeetCode</b>
+      </td>
+      <!-- Link Column -->
+      <td align="left" valign="middle" style="border: none;">
+        <a href="https://leetcode.com/u/MueezX/">Visit LeetCode Profile</a>
       </td>
     </tr>
-    
-  </tbody>
-</table>
+    <!--Discord-->
+    <tr style="border: none;">
+      <!-- Icon/Badge Column -->
+      <td align="center" valign="middle" style="border: none; padding-right: 8px;">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Icon" height="24">
+      </td>
+      <!-- Title Column -->
+      <td align="left" valign="middle" style="border: none; padding-right: 8px;">
+        <b>Discord</b>
+      </td>
+      <!-- Link Column -->
+      <td align="left" valign="middle" style="border: none;">
+        <bold>Username: <code>wixardx</code></bold>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -173,13 +190,10 @@
 
 </div>
 
-
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mueezullah&label=Profile%20Views&color=6366f1&style=flat-square&labelColor=334155" alt="mueezullah" />
 </p>
 
-###
  
 <div align="center">
   
