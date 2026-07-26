@@ -202,7 +202,7 @@
     <span style="vertical-align: middle;">Most Used Languages</span>
   </h3>
 
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mueezullah&layout=compact&theme=dracula&langs_count=10&v=1" height="150" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mueezullah&layout=compact&theme=dracula&langs_count=10&v=1" height="200" />
 
 </div>
 
