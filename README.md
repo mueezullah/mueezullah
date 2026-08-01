@@ -163,20 +163,20 @@
       </td>
     </tr>
     <!--Discord-->
-    <tr style="border: none;">
+    <!-- <tr style="border: none;"> -->
       <!-- Icon/Badge Column -->
-      <td align="center" valign="middle" style="border: none; padding-right: 8px;">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Icon" height="24">
-      </td>
+      <!-- <td align="center" valign="middle" style="border: none; padding-right: 8px;"> -->
+        <!-- <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Icon" height="24"> -->
+      <!-- </td> -->
       <!-- Title Column -->
-      <td align="left" valign="middle" style="border: none; padding-right: 8px;">
+      <!-- <td align="left" valign="middle" style="border: none; padding-right: 8px;">
         <b>Discord</b>
-      </td>
+      </td> -->
       <!-- Link Column -->
-      <td align="left" valign="middle" style="border: none;">
+      <!-- <td align="left" valign="middle" style="border: none;">
         <bold>Username: <code>wixardx</code></bold>
-      </td>
-    </tr>
+      </td> -->
+    <!-- </tr> -->
   </table>
 </div>
 
